@@ -2,8 +2,8 @@
 
 ## ExpNo 3: Implement Breadth First Search Traversal of a Graph
 
-### Name: Abdur Rahman Basil A H
-### Register Number: 212223040002
+### Name: Pradeep kumar R
+### Register Number: 212223220077
 
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
